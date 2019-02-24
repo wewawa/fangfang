@@ -25,7 +25,7 @@ function main() {
 	});	
 
 	
-	Portfolio isotope filter
+	// Portfolio isotope filter
 	$(window).load(function() {
 		var $container = $('.portfolio-items');
 		$container.isotope({
